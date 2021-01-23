@@ -1,0 +1,103 @@
+
+images1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+radar
+  rotate: false
+  xy: 2, 2
+  size: 300, 304
+  orig: 300, 304
+  offset: 0, 0
+  index: -1
+asteroid
+  rotate: false
+  xy: 2, 308
+  size: 450, 260
+  orig: 450, 260
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 304, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+bot1
+  rotate: false
+  xy: 304, 164
+  size: 189, 131
+  orig: 189, 131
+  offset: 0, 0
+  index: -1
+heal
+  rotate: false
+  xy: 2, 570
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+ammo
+  rotate: false
+  xy: 2, 671
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 2, 772
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 2, 873
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+simpleButton
+  rotate: false
+  xy: 107, 570
+  size: 246, 61
+  orig: 246, 61
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 2, 939
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 355, 570
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 466, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+star4
+  rotate: false
+  xy: 466, 34
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+star5
+  rotate: false
+  xy: 466, 65
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
